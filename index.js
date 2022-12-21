@@ -219,8 +219,8 @@ firstGameContainer.appendChild(first_name);
 const second_name = document.createElement('p');
 
 const secondName_display = `
-    <div class="fn">
-    <p class="firstName">${second.name}</p>
+    <div class="sn">
+    <p class="secondName">${second.name}</p>
     </div>
     `;
 
