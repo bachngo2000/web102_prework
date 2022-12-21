@@ -17,9 +17,12 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [x] When hover over any of the 3 bottom buttons ("Show Unfunded Only", "Show Funded Only", and "Show All Games"), the button will be highlighted in yellow, the mouse changes to cursor, and the button is enlarged 1.4 times.
-* [x] When hover over any of the 12 game cards, the card will be highlighted in light green the mouse changes to cursor, and the button is enlarged 1.05 times.
-* [x] When hover over any of the 12 game cards, the card will be highlighted in light green the mouse changes to cursor, and the button is enlarged 1.05 times.
+* [x] When hover over any of the 3 bottom buttons ("Show Unfunded Only", "Show Funded Only", and "Show All Games"), the button will be highlighted in yellow, the mouse changes to cursor, the background color changes to orange, and the text color changes to burgundy, and the button is enlarged 1.4 times.
+* [x] When hover over any of the 12 game cards, the card will be highlighted in light green, the mouse changes to cursor, the background color changes to bright green, the text color becomes red, and the button is enlarged 1.1 times.
+* [x] When hover over any of the stat cards, the card will be highlighted in light blue, the mouse changes to cursor, the background color becomes neon blue, the text changes color to white, and the button is enlarged 1.1 times.
+* [x] Header color changes to pink, and text color changes to white.
+* [x] Body's color changes to black.
+
 
 
 
