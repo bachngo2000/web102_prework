@@ -17,7 +17,11 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] When hover over any of the 3 bottom buttons ("Show Unfunded Only", "Show Funded Only", and "Show All Games"), the button will be highlighted in yellow, the mouse changes to cursor, and the button is enlarged 1.4 times.
+* [x] When hover over any of the 12 game cards, the card will be highlighted in light green the mouse changes to cursor, and the button is enlarged 1.05 times.
+* [x] When hover over any of the 12 game cards, the card will be highlighted in light green the mouse changes to cursor, and the button is enlarged 1.05 times.
+
+
 
 ## Video Walkthrough
 
