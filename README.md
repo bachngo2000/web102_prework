@@ -4,7 +4,7 @@ Submitted by: **Bach Nguyen-Ngo**
 
 **Sea Monster Games** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **8** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Required Features
 
@@ -22,9 +22,8 @@ The following **optional** features are implemented:
 * [x] When hover over any of the stat cards, the card will be highlighted in light blue, the mouse changes to cursor, the background color becomes neon blue, the text changes color to white, and the button is enlarged 1.1 times.
 * [x] Header color changes to pink, and text color changes to white.
 * [x] Body's color changes to black.
-
-
-
+* [x] Text Color Animation Effect is applied to the website header.
+* [x] Other animation effects are applied to several headings on the page.
 
 ## Video Walkthrough
 
