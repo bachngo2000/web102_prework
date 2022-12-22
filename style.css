@@ -122,10 +122,12 @@ button {
     }
 }
 
+
 #description-container {
     color: ivory;
     text-align: center;
     font-weight: bold;
+    font-size: 20px;
 }
 
 .stats-card:hover {
@@ -167,4 +169,44 @@ button {
   to {
     background-position: 200% center;
   }
+}
+
+.stats {
+    position: relative;
+}
+
+.stats span {
+    position: relative;
+    display: inline-block;
+    color: #fff;
+    animation: flip 2s infinite;
+    animation-delay: calc(.2s * var(--i))
+}
+
+@keyframes flip {
+    0%,80% {
+      transform: rotateY(360deg) 
+    }
+}
+
+.og {
+    animation: 2s anim-lineUp ease-out infinite;
+}
+
+@keyframes anim-lineUp {
+    0% {
+      opacity: 0;
+      transform: translateY(80%);
+    }
+    20% {
+      opacity: 0;
+    }
+    50% {
+      opacity: 1;
+      transform: translateY(0%);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0%);
+    }
 }
