@@ -17,7 +17,7 @@ body {
     margin-left: -10px;
     margin-right: -10px;
     margin-top: -10px;
-    color: ivory    
+    color: ivory;
 }
 
 .stats-container {
@@ -110,4 +110,7 @@ button {
     transform: scale(1.1) perspective(1px);
     background-color: #1F51FF;
     color: white;
+}
+.stats, .og, .co {
+    color:white;
 }
